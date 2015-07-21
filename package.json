@@ -16,7 +16,12 @@
   "devDependencies": {},
   "jspm": {
     "directories": {},
-    "dependencies": {},
+    "dependencies": {
+      "chai": "npm:chai@^3.2.0",
+      "mocha": "npm:mocha@^2.2.5",
+      "sinon": "npm:sinon@^1.15.4",
+      "text": "github:systemjs/plugin-text@^0.0.2"
+    },
     "devDependencies": {
       "chai": "npm:chai@^3.2.0",
       "mocha": "npm:mocha@^2.2.5",

@@ -22,9 +22,11 @@
        style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <g transform="matrix(4.5066863,0,0,4.5066863,-929.57647,-2168.1352)">
       <path
+         id="button-6"
          style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 292.1813,488.3336 33.15003,0 -2.59796,-4.27144 c -1.70332,-2.80052 -6.1312,-4.87889 -13.97705,-4.87889 -7.84586,0 -12.27374,2.07837 -13.97706,4.87889 l -2.59796,4.27144 z" />
       <path
+         id="button-4"
          style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 292.18129,495.51872 33.15003,0 -2.59796,-4.27144 c -1.70332,-2.80052 -6.13119,-4.87889 -13.97705,-4.87889 -7.84586,0 -12.27374,2.07837 -13.97706,4.87889 l -2.59796,4.27144 z" />
     </g>
@@ -48,9 +50,11 @@
        r="37.64706" />
     <g transform="matrix(4.5066863,0,0,4.5066863,-277.19951,-2168.1352)">
       <path
+         id="button-7"
          style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 292.1813,488.3336 33.15003,0 -2.59796,-4.27144 c -1.70332,-2.80052 -6.1312,-4.87889 -13.97705,-4.87889 -7.84586,0 -12.27374,2.07837 -13.97706,4.87889 l -2.59796,4.27144 z" />
       <path
+         id="button-5"
          style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 292.18129,495.51872 33.15003,0 -2.59796,-4.27144 c -1.70332,-2.80052 -6.13119,-4.87889 -13.97705,-4.87889 -7.84586,0 -12.27374,2.07837 -13.97706,4.87889 l -2.59796,4.27144 z" />
     </g>
@@ -64,6 +68,7 @@
        d="m 1075.46,109.99762 c -6.9215,0 -12.5342,5.61263 -12.5342,12.53422 l 0,66.05112 -66.19195,0 c -6.92155,0 -12.39343,5.61263 -12.39339,12.53423 l 0,70.27614 c 0,6.92154 5.47193,12.53417 12.39339,12.53422 l 66.19195,0 0,66.05112 c 0,6.92155 5.6126,12.53413 12.5342,12.53422 l 70.2762,0 c 6.9215,0 12.3933,-5.61276 12.3934,-12.53422 l 0,-66.05112 66.1919,0 c 6.9216,0 12.3934,-5.61272 12.3934,-12.53422 l 0,-70.27614 c 0,-6.92155 -5.4718,-12.53423 -12.3934,-12.53423 l -66.1919,0 0,-66.05112 c 0,-6.92155 -5.4719,-12.53422 -12.3934,-12.53422 l -70.2762,0 z"
        style="fill:#404040;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <rect
+       id="button-6"
        style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.50668621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        width="52.430733"
        height="30.044577"
@@ -72,30 +77,35 @@
        rx="7.0693121"
        ry="7.0693121" />
     <circle
+       id="button-16"
        style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(6.2172,0,0,6.2172,-1542.9764,-3223.4548)"
        cx="374.24835"
        cy="545.82623"
        r="5.7516341" />
     <circle
+       id="button-3"
        style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#454545;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(4.5066863,0,0,4.5066863,-932.50349,-2144.6719)"
        cx="453.33334"
        cy="510.66284"
        r="8.2352943" />
     <circle
+       id="button-0"
        transform="matrix(4.5066863,0,0,4.5066863,-932.50349,-1985.0233)"
        style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#454545;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        cx="453.33334"
        cy="510.66284"
        r="8.2352943" />
     <circle
+       id="button-1"
        transform="matrix(-4.5066863,0,0,-4.5066863,3233.3832,2537.9468)"
        style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#454545;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        cx="453.33334"
        cy="510.66284"
        r="8.2352943" />
     <circle
+       id="button-2"
        style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#454545;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(-4.5066863,0,0,-4.5066863,3073.7346,2537.9468)"
        cx="453.33334"
@@ -137,6 +147,7 @@
          transform="matrix(-0.2837353,0,0,-0.5174088,363.99805,795.4277)" />
     </g>
     <rect
+       id="button-9"
        style="fill:#595959;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.50668621;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        width="52.430733"
        height="30.044577"
