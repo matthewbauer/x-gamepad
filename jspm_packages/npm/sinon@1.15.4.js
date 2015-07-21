@@ -1,0 +1,1 @@
+module.exports = require("npm:sinon@1.15.4/lib/sinon");
