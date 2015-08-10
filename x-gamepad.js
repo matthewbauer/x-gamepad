@@ -14,7 +14,6 @@ export default document.registerElement('x-gamepad', class extends HTMLElement {
     }
     this.innerHTML = standard_gamepad
     this.svg = this.children[0]
-
   }
   attachedCallback () {
     this.connected = true
